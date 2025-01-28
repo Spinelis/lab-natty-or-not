@@ -1,6 +1,6 @@
 # Desafio!? Você Já Venceu 💪🤓
 
-## Título do Projeto: Podcast "Pensando fora da CAIXA"
+## Projeto Podcast: "Pensando fora da CAIXA"
 
 ### 📒 Descrição
 Criação de um podcast gerado totalmente por IA
